@@ -14,7 +14,17 @@ My Github Profile
 
 
 ```yaml
-name:hello
+name: Bijon Mangang
+Located_in: Sylhet
+education:[
+  "Self taught developer and Designer"
+   "Bachelor in chemistry"
+]
+fields of interest:[
+  "Web Development"
+  "Machine Learning"
+  "System Design"
+]
 ```
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
